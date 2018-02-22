@@ -25,6 +25,7 @@ else
     -Dcert=${DOCKER_CERT_PATH} \
     -Dscript=/selfassignedips/gen_key.sh \
     -Dkeyfile=${PRIVATE_KEY} \
+    -Dkey=${PRIVATE_KEY} \
     -Daccount=${SDC_ACCOUNT} \
     -Dusername=${SDC_USERNAME} \
     -DdockerPath=`which docker` \
