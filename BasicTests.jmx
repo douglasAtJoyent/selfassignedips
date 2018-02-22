@@ -264,8 +264,8 @@ This test will try and setup and tear down all needed components, but just incas
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -1128,8 +1128,8 @@ props.put(&quot;network.shared.id&quot;,vars.get(&quot;network.shared.id&quot;))
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -1316,8 +1316,8 @@ props.put(&quot;network.shared.id&quot;,vars.get(&quot;network.shared.id&quot;))
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -1836,8 +1836,8 @@ props.put(&quot;network.shared.id&quot;,vars.get(&quot;network.shared.id&quot;))
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -1965,8 +1965,8 @@ props.put(&quot;network.shared.id&quot;,vars.get(&quot;network.shared.id&quot;))
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -2112,8 +2112,8 @@ props.put(&quot;network.shared.id&quot;,vars.get(&quot;network.shared.id&quot;))
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -2242,8 +2242,8 @@ props.put(&quot;network.shared.id&quot;,vars.get(&quot;network.shared.id&quot;))
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -2396,8 +2396,8 @@ vars.put(&quot;reserveAddress&quot;,prefix + &quot;.&quot; + runId);</stringProp
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -2548,8 +2548,8 @@ vars.put(&quot;reserveAddress&quot;,prefix + &quot;.&quot; + runId);</stringProp
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -2691,8 +2691,8 @@ vars.put(&quot;reserveAddress&quot;,prefix + &quot;.&quot; + runId);</stringProp
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -2845,8 +2845,8 @@ vars.put(&quot;reserveAddress&quot;,prefix + &quot;.&quot; + runId);</stringProp
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -3270,8 +3270,8 @@ vars.put(&quot;reserveAddress&quot;,prefix + &quot;.&quot; + runId);</stringProp
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -3701,8 +3701,8 @@ vars.put(&quot;reserveAddress&quot;,prefix + &quot;.&quot; + runId);</stringProp
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -3870,8 +3870,8 @@ vars.put(&quot;reserveAddress&quot;,prefix + &quot;.&quot; + runId);</stringProp
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -4510,8 +4510,8 @@ vars.put(&quot;reserveAddress&quot;,prefix + &quot;.&quot; + runId);</stringProp
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -5140,8 +5140,8 @@ vars.put(&quot;reserveAddress&quot;,prefix + &quot;.&quot; + runId);</stringProp
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -5709,8 +5709,8 @@ vars.put(&quot;reserveAddress&quot;,prefix + &quot;.&quot; + runId);</stringProp
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -6231,8 +6231,8 @@ vars.put(&quot;reserveAddress&quot;,prefix + &quot;.&quot; + runId);</stringProp
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -6924,8 +6924,8 @@ vars.put(&quot;reserveAddress&quot;,prefix + &quot;.&quot; + runId);</stringProp
                 <stringProp name="Argument.value">${keyfile}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
-              <elementProp name="SDC_USER" elementType="Argument">
-                <stringProp name="Argument.name">SDC_USER</stringProp>
+              <elementProp name="SDC_KEY_NAME" elementType="Argument">
+                <stringProp name="Argument.name">SDC_KEY_NAME</stringProp>
                 <stringProp name="Argument.value">${username}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
