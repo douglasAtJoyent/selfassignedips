@@ -27,7 +27,7 @@ else
     -Dkeyfile=${PRIVATE_KEY} \
     -Dkey=${PRIVATE_KEY} \
     -Daccount=${SDC_ACCOUNT} \
-    -Dusername=${$SDC_KEY_NAME} \
+    -Dusername=${SDC_KEY_NAME} \
     -DdockerPath=`which docker` \
     -DThreads=${THREADS} \
     -Dtls=true \
