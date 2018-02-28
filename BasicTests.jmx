@@ -176,7 +176,7 @@ This test will try and setup and tear down all needed components, but just incas
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">allCalls.xml</stringProp>
+        <stringProp name="filename">/Users/DouglasAnderson/repo/selfAssignedIps/allCalls.xml</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="Error Report" enabled="true">
